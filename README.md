@@ -57,6 +57,7 @@ Something I've also noticed is that the simpler the library, the better the docs
   * Running code snippet on the site i.e. playground feature
   * Sample project to download and run for the first time
   * Search feature built in that actually works
+  * Supports multiple languages
 
 Bad documentation on the other hand waste time for users when they go to Stackoverflow/Google rather than the official documentation. It can also prevent users from adopting your tool. I have decided against using a tool on the quality of the documentation.
 
