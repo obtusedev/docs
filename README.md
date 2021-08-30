@@ -25,6 +25,13 @@ Something I've also noticed is that the simpler the library, the better the docs
     * Code examples for common usecases/problems
     * Code style recommendation
   * More resources for learning the tool beyond the official docs
+    * Not only more resources but different types for people that learn different
+      * Course
+      * Interactive playground / Downloadable first project
+      * Videos
+        * Please make sure that some effort is put into production(audio, video, content, presenter) especially audio
+        * Link to the code
+      * Written
   * Uniformity i.e standard code style(e.g JS code examples with and without ;)
     * There are tools that are more opinionated than others, think Django vs Flask, and there maybe many ways to do something. In that case it should show the multiple options with pros/cons and let the user decide.
   * Up to date
