@@ -40,7 +40,7 @@ Something I've also noticed is that the simpler the library, the better the docs
   * DARK THEME
     * Really appreciated when coding late at night
   * Download offline with multiple formats (epub, pdf, html)
-  * Easy to request an edit (for typos and suggestions) e.g. PR on Github for MDN docs
+  * Easy to contribute to
   * Good styling
     * Button to copy code snippet
     * Good use of whitespace i.e information not too jam packed [cppr](https://en.cppreference.com/w/)
