@@ -152,6 +152,10 @@ Python
 
 [Ruby](https://www.ruby-lang.org/en/documentation/)
 
+  The official docs are terrible. Use [rubyapi](https://rubyapi.org/) instead.  
+  100x better than the official docs.
+
+For a language that's elegant the documentation sure as hell don't reflect that. The documentations are ugly, hard to navigate, and find imformation. Needs a remake desperately
 
 ## Tools:
 
