@@ -2,7 +2,8 @@
 
 ## Purpose
 
-This repo is a collection of what I think is the best and worst looking documentation.
+This repo is a collection of what I think is the best and worst looking documentation. Decided to do this when I was looking at Crystal and the Ruby. The stark difference in the quality of documentation was eye opening. Crystal having really nice documentation made me want to start learning it over Ruby. With Crytal it was easy to find information while with Ruby it was like digging for gold. 
+
 
 Good documentation can save you lots of time and frustration and can help generate interest in your tool. When I say good documentation I'm not just referring to how it looks but how easy it is to find what I'm looking for. There are good documentation that are simple in style, like [Request](https://docs.python-requests.org/en/master/index.html), and there are more stylish documentation like [FastAPI](https://fastapi.tiangolo.com/). 
 
