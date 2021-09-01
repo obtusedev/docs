@@ -7,12 +7,17 @@ This repo is a collection of what I think is the best and worst looking document
 
 Good documentation can save you lots of time and frustration and can help generate interest in your tool. When I say good documentation I'm not just referring to how it looks but how easy it is to find what I'm looking for. There are good documentation that are simple in style, like [Request](https://docs.python-requests.org/en/master/index.html), and there are more stylish documentation like [FastAPI](https://fastapi.tiangolo.com/). 
 
-Easy to find information > Good style/theme
+Easy navigation > Good style/theme  
 Function > Form
 
 > Information here refers to but is not limited to tool setup (installation, updating, deleting), API ref (how to use a class, function/method, parameters), code examples, tutorial/quickstart (how to use your tool)
 
-Something I've also noticed is that the simpler the library, the better the docs are usually but not always. Examples include 
+One important thing I recently learned is that sometimes even if a tool has good documentation, it can still be really hard to learn it.  
+
+Something else I noticed is that the simpler the library, the better the docs are usually but not always.  
+That might just be a result of less things to learn.  
+
+Examples include:
 
 ### Good documentation:
 
@@ -49,6 +54,7 @@ Something I've also noticed is that the simpler the library, the better the docs
     * Really appreciated when coding late at night
   * Download offline with multiple formats (epub, pdf, html)
   * Easy to contribute to
+  * Easy toggle between different versions
   * Good styling
     * Button to copy code snippet
     * Good use of whitespace i.e information not too jam packed [cppr](https://en.cppreference.com/w/)
@@ -129,11 +135,82 @@ Unfortunately it seems the website is a static Gatsby [site](https://github.com/
   * Dark theme!
     * You can chose light, dark, system theme
     * You can even change the font
+
+### Kotlin: [Docs](https://kotlinlang.org/docs/home.html)
+
+Kotlin documentations is another one of my favorites. The website has a main navigation on the left sidebar and on the right side more granular controls. For example on the left is Basic syntax and on right is Functions, Variables, Comments. Only thing missing is Dark mode.
+
+  * Very good use of whitespace
+  * Lots of examples
+  * Easy navigation to
+    * Tutorial
+    * Standard Library
+    * API Reference
+    * Tools
+  * Playground feature is amazing on par with TypeScript
+
+### Go: [Docs](https://golang.org/doc/)
+
+Seems odd that there is a dark theme for packages & Standard Library but not for language docs. Go code examples could really use syntax highlighting. 
+
+  * Easy to Standard Library
+  * Decent playground feature
+    * No autocomplete
+    * No syntax highlighting
+  * Good tutorial
+  * Lots of external resources for Go
+### PHP: [Docs](https://www.php.net/docs.php)
+
+PHP docs are pretty good. Some criticism would be to remove the comments section from the docs. There is little visual distinction to let you know you're in the comments if you're scrolling fast. Also some of the comments are from 20 years ago. Another improvement would be to have the right nav sticky so that when you scroll down you don't have empty space on the right and you can easily go to another section. The downloaded docs were bad since they would freeze my pc.
+
+  * Multiple languages
+  * Decent to navigate
+
+### Node.js: [Docs](https://nodejs.org/en/docs/)
+
+  * Dark mode by default
+  * Easy navigation
+  * Easy to choose different versions
+  * Could use more examples
+
 ### Frameworks, Libraries, Platforms
+
+### Angular: [Docs](https://angular.io/docs)
+
+Angular has some of the nicest docs, reminds me of the typescript docs. An issue I have with the website is that when you switch pages there is a noticable lag as the page loads. The animation as it loads is annoying too. 
+
+  * Dark mode!
+  * Good learning resources
+  * Easy navigation
+
+
 [React](https://reactjs.org/)
 [Node.js](https://nodejs.org/en/docs/)
 [Request](https://docs.python-requests.org/en/master/index.html)
 [Vue](https://vuejs.org/)
+
+### Github: [Docs](https://docs.github.com/en)
+
+Informative guides and tutorials for everything from setting up ssh keys to using git and everything inbetween.  
+The only thing I dislike is that there's no link from Github home page directly to the docs.  
+I mean if you have a link for everything else from pricing to Github features why not have a link directly to the docs?  
+You should like Github docs in the Explore dropdown under the Learn and Contribute section.
+
+  * Beginner friendly
+  * Clear sections
+    * Github takes this to a whole nother level
+  * Detailed and informative
+
+### GraphQL: [Docs](https://graphql.org/learn/)
+
+Simple documentation with lots of code examples. Make good use of whitespace.  
+Only issue is no dark mode as this website is hard to look at in the dark.
+
+  * Good use of whitespace
+  * Lots of examples
+  * Simple one page navigation
+    * Makes it easy to navigate
+
 ### REST APIs
 
 
@@ -182,3 +259,6 @@ For a language that's elegant the documentation sure as hell don't reflect that.
 [Sphinx-Alabaster](https://sphinx-themes.org/sample-sites/default-alabaster/)
   * Requests is using a modified version of Flask's theme called [krTheme](https://github.com/kennethreitz-archive/kr-sphinx-themes/blob/master/flask_theme_support.py) [[info]](https://github.com/psf/requests/tree/main/docs/_themes)
   * Flask is using a customize [version](https://github.com/pallets/pallets-sphinx-themes) of Sphinx Alabaster theme [[info]](https://www.sphinx-doc.org/en/master/examples.html)
+
+[Jekyll]()  
+[Jekyll-Minimal-Mistakes](https://mmistakes.github.io/minimal-mistakes/)
