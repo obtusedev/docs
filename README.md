@@ -211,7 +211,15 @@ Only issue is no dark mode as this website is hard to look at in the dark.
   * Simple one page navigation
     * Makes it easy to navigate
 
+### Laravel: [Docs](https://laravel.com/docs/)
 
+Elegant and well designed UI. Not sure what they use for generating docs.
+
+  * Dark mode
+  * Version toggle
+  * Easy navigation
+  * Good font, easy to read
+  * Lots of example with good syntax color
 
 ## Decent
 ### Languages
