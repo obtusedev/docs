@@ -95,6 +95,16 @@ Bad documentation on the other hand waste time for users when they go to Stackov
 
 ### Languages
 
+### Crystal: [Docs](https://crystal-lang.org/docs/)
+
+Clean and elegant docs to match the language.  
+The Crystal standard library api uses a different theme.
+
+  * Dark theme
+  * Easy to navigate and clear categories
+  * Great font (roboto mono)
+  * Lots of examples
+
 ### Rust: [Docs](https://www.rust-lang.org/)  
 
 Really nice documentation especially when compared to something like C++.  
