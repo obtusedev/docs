@@ -238,7 +238,18 @@ For a language that's elegant the documentation sure as hell don't reflect that.
 
 [Devdocs](https://devdocs.io/)
 
+### REST APIs
+
+[swagger-ui](https://github.com/swagger-api/swagger-ui)
+
 ### Documentation Generators
+
+[Gitbook](https://github.com/GitbookIO/gitbook)
+
+[docsify](https://github.com/docsifyjs/docsify)
+
+[docusaurus](https://github.com/facebook/docusaurus)
+  * React
 
 [VuePress](https://github.com/vuepress)
   * Vue.js
@@ -254,11 +265,13 @@ For a language that's elegant the documentation sure as hell don't reflect that.
 
 [Sphinx](https://www.sphinx-doc.org/en/master/)
 
+[Sphinx-Pallet-Themes](https://github.com/pallets/pallets-sphinx-themes)
+
 [Sphinx-Themes](https://sphinx-themes.org/)
 
 [Sphinx-Alabaster](https://sphinx-themes.org/sample-sites/default-alabaster/)
   * Requests is using a modified version of Flask's theme called [krTheme](https://github.com/kennethreitz-archive/kr-sphinx-themes/blob/master/flask_theme_support.py) [[info]](https://github.com/psf/requests/tree/main/docs/_themes)
   * Flask is using a customize [version](https://github.com/pallets/pallets-sphinx-themes) of Sphinx Alabaster theme [[info]](https://www.sphinx-doc.org/en/master/examples.html)
 
-[Jekyll]()  
+[Jekyll](https://github.com/jekyll/jekyll)  
 [Jekyll-Minimal-Mistakes](https://mmistakes.github.io/minimal-mistakes/)
