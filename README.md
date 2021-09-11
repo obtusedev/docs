@@ -193,6 +193,15 @@ Angular has some of the nicest docs, reminds me of the typescript docs. An issue
   * Good learning resources
   * Easy navigation
 
+### Docker: [Docs](https://docs.docker.com/)
+
+Thankful docker has good documentation seeing how useful docker is.
+
+  * Dark theme(more like dark blue)
+  * Lots of examples
+  * Syntax color is hard to see
+  * Font is a bit small
+  * Tutorials and guides for beginners
 
 [React](https://reactjs.org/)
 [Node.js](https://nodejs.org/en/docs/)
