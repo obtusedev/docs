@@ -211,20 +211,16 @@ Only issue is no dark mode as this website is hard to look at in the dark.
   * Simple one page navigation
     * Makes it easy to navigate
 
-### REST APIs
-
 
 
 ## Decent
 ### Languages
 Python
-### REST APIs
 ### Frameworks, Libraries, Platforms
 
 
 ## Worst
 ### Languages
-### REST APIs
 ### Frameworks, Libraries, Platforms
 
 [Ruby](https://www.ruby-lang.org/en/documentation/)
