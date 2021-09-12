@@ -240,6 +240,18 @@ Elegant and well designed UI. Not sure what they use for generating docs.
   * Good font, easy to read
   * Lots of example with good syntax color
 
+### Stripe: [Docs](https://stripe.com/docs)
+
+Stripe has some of the best documentations. That's no surprise considering how much developers praise Stripe. It really is built for developers.  
+
+  * Playground feature is top notch
+  * Dark mode (only available on some documentations)
+    * Not here [docs-payments](https://stripe.com/docs/payments)
+    * Available here [docs-api](https://stripe.com/docs/api)
+  * Great use of space
+  * Font easy to read and clear
+  * Clear sections and very easy to navigate
+  * Lots of code examples
 ## Decent
 ### Languages
 Python
