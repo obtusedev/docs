@@ -280,11 +280,14 @@ For a language that's elegant the documentation sure as hell don't reflect that.
 [mdBook](https://github.com/rust-lang/mdBook)
   * Rust
 
-[mkdocs]()
+[mkdocs](https://www.mkdocs.org/)
 
 [mkdocs-material](https://github.com/squidfunk/mkdocs-material)
   * Crystal
   * FastAPI
+
+[readthedocs](https://readthedocs.org/)
+  * PIL
 
 [Sphinx](https://www.sphinx-doc.org/en/master/)
 
