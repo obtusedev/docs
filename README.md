@@ -176,13 +176,6 @@ PHP docs are pretty good. Some criticism would be to remove the comments section
   * Multiple languages
   * Decent to navigate
 
-### Node.js: [Docs](https://nodejs.org/en/docs/)
-
-  * Dark mode by default
-  * Easy navigation
-  * Easy to choose different versions
-  * Could use more examples
-
 ### Frameworks, Libraries, Platforms
 
 ### Angular: [Docs](https://angular.io/docs)
@@ -204,7 +197,14 @@ Thankful docker has good documentation seeing how useful docker is.
   * Tutorials and guides for beginners
 
 [React](https://reactjs.org/)
-[Node.js](https://nodejs.org/en/docs/)
+
+### Node.js: [Docs](https://nodejs.org/en/docs/)
+
+  * Dark mode by default
+  * Easy navigation
+  * Easy to choose different versions
+  * Could use more examples
+
 [Request](https://docs.python-requests.org/en/master/index.html)
 [Vue](https://vuejs.org/)
 
