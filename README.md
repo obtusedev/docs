@@ -301,3 +301,4 @@ For a language that's elegant the documentation sure as hell don't reflect that.
 
 [Jekyll](https://github.com/jekyll/jekyll)  
 [Jekyll-Minimal-Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+[Other](https://github.com/unicodeveloper/awesome-documentation-tools)
