@@ -60,7 +60,7 @@ Examples include:
     * Good use of whitespace i.e information not too jam packed [cppr](https://en.cppreference.com/w/)
     * Good size font where you don't have to squint [cppr](https://en.cppreference.com/w/)
     * Readable font meaning
-      * avoid igatures
+      * avoid ligatures
       * avoid italics especially on key words
       * distinction between characters that can be confused for one another.
         * upper, lowercase L, I [L, l, I, i, 1, |] and uppercase o and 0 i.e. O, 0
