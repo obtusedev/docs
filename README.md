@@ -289,6 +289,8 @@ For a language that's elegant the documentation sure as hell don't reflect that.
 [VuePress](https://github.com/vuepress)
   * Vue.js
 
+[yuu-theme-for-vue-press](https://github.com/danktuary/vuepress-theme-yuu)
+
 [mdBook](https://github.com/rust-lang/mdBook)
   * Rust
 
